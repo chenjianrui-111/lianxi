@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b51408e-229c-462d-8745-e705024492a1" name="Default Changelist" comment="" />
+    <list default="true" id="5b51408e-229c-462d-8745-e705024492a1" name="Default Changelist" comment="suanfa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -36,6 +39,7 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="21uf2FFEUBIFy3j0RhbcvMfc9VF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -47,6 +51,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/file/作业笔记/面试题",
     "settings.editor.selected.configurable": "MavenSettings",
@@ -73,13 +78,13 @@
       <recent name="D:\file\作业笔记\面试题\src\com\cjr\shu" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.OtherTest.test4">
-    <configuration name="数组的最小偏移量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xiaochao.笔试.数组的最小偏移量" />
+  <component name="RunManager" selected="应用程序.URLTest">
+    <configuration name="URLTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaSnior.wangluobiancheng.java2.URLTest" />
       <module name="面试题" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xiaochao.笔试.*" />
+          <option name="PATTERN" value="com.javaSnior.wangluobiancheng.java2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -580,29 +585,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStreamAPI3.test9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="面试题" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javaSnior.stream.java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.javaSnior.stream.java8" />
-      <option name="MAIN_CLASS_NAME" value="com.javaSnior.stream.java8.TestStreamAPI3" />
-      <option name="METHOD_NAME" value="test9" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.URLTest" />
         <item itemvalue="JUnit.OtherTest.test4" />
         <item itemvalue="JUnit.NewInstanceTest.test2" />
         <item itemvalue="JUnit.ClassLoaderTest.test2" />
         <item itemvalue="JUnit.TestOptional.test6" />
-        <item itemvalue="JUnit.TestStreamAPI3.test9" />
       </list>
     </recent_temporary>
   </component>
@@ -887,12 +876,24 @@
       <workItem from="1688205028181" duration="11887000" />
       <workItem from="1688837668966" duration="5364000" />
       <workItem from="1688866379342" duration="11637000" />
-      <workItem from="1688995931631" duration="1411000" />
+      <workItem from="1688995931631" duration="1856000" />
     </task>
+    <task id="LOCAL-00001" summary="suanfa">
+      <created>1688997667883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688997667883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="suanfa" />
+    <option name="LAST_COMMIT_MESSAGE" value="suanfa" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

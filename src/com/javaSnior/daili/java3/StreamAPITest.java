@@ -1,7 +1,7 @@
 package com.javaSnior.daili.java3;
 
-import com.atguigu.java2.Employee;
-import com.atguigu.java2.EmployeeData;
+import com.javaSnior.daili.java2.Employee;
+import com.javaSnior.daili.java2.EmployeeData;
 import org.junit.Test;
 
 import java.util.Arrays;
